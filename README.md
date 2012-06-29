@@ -1,7 +1,9 @@
-xmlconfig is an extension of [tinyxml][www.sourceforge.net/projects/tinyxml] 
+xmlconfig is an extension of [tinyxml](http://www.sourceforge.net/projects/tinyxml) 
 that provides a very limited XPath like interface into xml files. It has built 
 invalue cacheing, and maintains awareness of the xml file state, so look ups 
 are quick and values are up to date with the original xml file. 
+
+TinyXml is included with the this source distribution. 
 
 Copyright (c) 2011 John Reeder
 
